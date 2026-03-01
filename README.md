@@ -7,4 +7,4 @@
 
 ### Best Model:
 ### Model 1 Spatial Operator Learning (FNO)
-### Final Model Precision: 99.98%
+### Final Model Precision: 99.98% (own dataset generation example) 

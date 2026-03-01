@@ -1,6 +1,6 @@
 # Literature Review
 
-In this section, I am analyzing electromagnetic compatibility. 
+sources used during this project
 
 ### Sources:
 * [EMC problems, challenges and perspectives](https://www.researchgate.net/publication/289161791_Electromagnetic_compatibility_engineering_education_Problems_challenges_and_perspectives#pf3)
